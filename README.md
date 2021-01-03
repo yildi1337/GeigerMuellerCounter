@@ -27,14 +27,14 @@ The *High-Voltage Board* contains a DC/DC converter to generate the 400 V operat
 </p>
 
 # Tube Board
-The *Tube Board* simply connects the tube itself and generates the 5 V pulses for the *Controller Board*.
+The *Tube Board* simply connects the tube (Si-39G) itself and generates the 5 V pulses for the *Controller Board*.
 
 <p align="center">
   <img src="https://github.com/yildi1337/GeigerMuellerCounter/blob/main/pictures/tube_board.jpg" />
 </p>
 
 # Demonstration Video
-
+For the demonstration video a slightly radioactive metaautunite/uranocircite has been used.
 <p align="center">
   <img src="https://github.com/yildi1337/GeigerMuellerCounter/blob/main/pictures/metaautunite-uranocircite.jpg" />
 </p>
