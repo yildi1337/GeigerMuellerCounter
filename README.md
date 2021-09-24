@@ -1,4 +1,4 @@
-# GeigerMuellerCounter
+# Geiger Mueller Counter
 A simple Geiger–Mueller Counter for the Detection of Ionizing Radiation
 
 <p align="center">
